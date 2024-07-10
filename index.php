@@ -55,7 +55,7 @@
         <p class=" w3l-register-p">Don't have an account?<a href="signup.php" class="register"> Sign up</a></p>
     </div>
     <footer>
-        <p class="copyright-agileinfo"> &copy; Yash Awachare. All Rights Reserved</p>
+        <p class="copyright-agileinfo"> &copy; HostelMS. All Rights Reserved</p>
     </footer>
 
 </body>
